@@ -1,0 +1,11 @@
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\bin\Debug\WindowsCRUD_App.exe.config
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\bin\Debug\WindowsCRUD_App.exe
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\bin\Debug\WindowsCRUD_App.pdb
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.csproj.AssemblyReference.cache
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.Form1.resources
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.Properties.Resources.resources
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.csproj.GenerateResource.cache
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.csproj.CoreCompileInputs.cache
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.exe
+C:\Users\Mecer\Desktop\SEN381\ExamPracPrep\WindowsCRUD_App\WindowsCRUD_App\obj\Debug\WindowsCRUD_App.pdb
